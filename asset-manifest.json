@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vivino/static/css/main.ca713771.css",
-    "main.js": "/Vivino/static/js/main.a7e44b40.js",
+    "main.js": "/Vivino/static/js/main.0bf83e8f.js",
     "static/js/787.7fc3c451.chunk.js": "/Vivino/static/js/787.7fc3c451.chunk.js",
     "static/media/banner2.png": "/Vivino/static/media/banner2.d694c6b5b52e2540347d.png",
     "static/media/bannerImg1.png": "/Vivino/static/media/bannerImg1.87967f1a32b5aeaa8f39.png",
@@ -27,11 +27,11 @@
     "static/media/shopping-cart.png": "/Vivino/static/media/shopping-cart.d4baa7680b235ccacb2e.png",
     "index.html": "/Vivino/index.html",
     "main.ca713771.css.map": "/Vivino/static/css/main.ca713771.css.map",
-    "main.a7e44b40.js.map": "/Vivino/static/js/main.a7e44b40.js.map",
+    "main.0bf83e8f.js.map": "/Vivino/static/js/main.0bf83e8f.js.map",
     "787.7fc3c451.chunk.js.map": "/Vivino/static/js/787.7fc3c451.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca713771.css",
-    "static/js/main.a7e44b40.js"
+    "static/js/main.0bf83e8f.js"
   ]
 }
