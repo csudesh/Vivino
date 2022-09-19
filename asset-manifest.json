@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Vivino/static/css/main.ca713771.css",
+    "main.js": "/Vivino/static/js/main.29509b19.js",
+    "static/js/787.7fc3c451.chunk.js": "/Vivino/static/js/787.7fc3c451.chunk.js",
+    "static/media/banner2.png": "/Vivino/static/media/banner2.d694c6b5b52e2540347d.png",
+    "static/media/bannerImg1.png": "/Vivino/static/media/bannerImg1.87967f1a32b5aeaa8f39.png",
+    "static/media/banner1.png": "/Vivino/static/media/banner1.3218688309b993f93b52.png",
+    "static/media/offerImg.png": "/Vivino/static/media/offerImg.cfc4caaa08a2b437c4c8.png",
+    "static/media/userImg.jpg": "/Vivino/static/media/userImg.151c6093bb0d40fec2ab.jpg",
+    "static/media/playStore.png": "/Vivino/static/media/playStore.d6330fd18f27e33bb743.png",
+    "static/media/discover.png": "/Vivino/static/media/discover.381c090907b690df552c.png",
+    "static/media/appStore.png": "/Vivino/static/media/appStore.c9b5ec84b17a09ac4aed.png",
+    "static/media/gPay.png": "/Vivino/static/media/gPay.fcbe59f91821d82a16a7.png",
+    "static/media/applePay.png": "/Vivino/static/media/applePay.031b371c41511b5e5e97.png",
+    "static/media/img1.png": "/Vivino/static/media/img1.4144b2c500ef6f161460.png",
+    "static/media/mastercard.png": "/Vivino/static/media/mastercard.cbc9462c33c74dbe16a1.png",
+    "static/media/beerIcon.png": "/Vivino/static/media/beerIcon.48fa4c7f59e31a5f23aa.png",
+    "static/media/payPal.png": "/Vivino/static/media/payPal.23de67180c29c3c3c30d.png",
+    "static/media/americanExpress.png": "/Vivino/static/media/americanExpress.338cd681a6afc75592a3.png",
+    "static/media/beerBottel.png": "/Vivino/static/media/beerBottel.a1660f15ad990554ca13.png",
+    "static/media/offer.png": "/Vivino/static/media/offer.b2efd6b8f4f0d8146c89.png",
+    "static/media/instagram.png": "/Vivino/static/media/instagram.79ea850107caae079257.png",
+    "static/media/visa.png": "/Vivino/static/media/visa.9c3a1a23022ee3d3200e.png",
+    "static/media/user.png": "/Vivino/static/media/user.f698a907c30fc2505ab5.png",
+    "static/media/userProfile.png": "/Vivino/static/media/userProfile.39731195adb6b47f956a.png",
+    "static/media/shopping-cart.png": "/Vivino/static/media/shopping-cart.d4baa7680b235ccacb2e.png",
+    "index.html": "/Vivino/index.html",
+    "main.ca713771.css.map": "/Vivino/static/css/main.ca713771.css.map",
+    "main.29509b19.js.map": "/Vivino/static/js/main.29509b19.js.map",
+    "787.7fc3c451.chunk.js.map": "/Vivino/static/js/787.7fc3c451.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca713771.css",
+    "static/js/main.29509b19.js"
+  ]
+}
