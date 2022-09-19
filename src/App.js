@@ -9,12 +9,13 @@ function App() {
     <>
       <div>
         <h1>Hello world!</h1>
+        <Home />
       </div>
-      <Router>
+      {/* <Router>
         <Routes>
           <Route path="/" element={<Home />} />
         </Routes>
-      </Router>
+      </Router> */}
     </>
   );
 }
